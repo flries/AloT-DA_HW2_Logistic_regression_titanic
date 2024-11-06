@@ -1,5 +1,6 @@
 ## Prompt:
 The following article is about Kaggle Titanic challenge, please briefly summarize the content of this article.
+
 https://ithelp.ithome.com.tw/articles/10272521?sc=rss.iron
 
 ## Response:
@@ -23,7 +24,8 @@ The preprocessing steps include:
 The author stops here, hinting that further feature engineering and model training will be discussed in the next part. The complete code for this stage is available via a Google Colab link.
 
 ## Prompt:
-Please continue to summarize the content of this article. 
+Please continue to summarize the content of this article.
+
 https://ithelp.ithome.com.tw/articles/10273073
 
 ## Response:
@@ -53,7 +55,8 @@ Continuing from the previous article, the author covers additional columns in th
 The author concludes by noting the intensive nature of data preprocessing in machine learning. They emphasize that most of a data scientist's time is spent on preparing data rather than on actual model training. A link to the complete data processing and training script is provided for reference.
 
 ## Prompt:
-This is the last part of this article, please summarize the content of this article. 
+This is the last part of this article, please summarize the content of this article.
+
 https://ithelp.ithome.com.tw/articles/10273799
 
 ## Response:
@@ -88,6 +91,7 @@ Finally, the article includes a link to the full code in Google Colab, allowing 
 
 ## Prompt:
 This is the full code on Google Colab of this article, please remark this code as version 1 and find out the part of code about Data Preprocessing method and the model-related code due to this article. 
+
 https://colab.research.google.com/drive/1l--rkdk0sCxrEAGyETSxFCMrJmS147tX?usp=sharing
 
 ## Response:
