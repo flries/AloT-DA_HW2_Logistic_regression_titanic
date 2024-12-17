@@ -11,7 +11,7 @@
 #### ChatGPT Prompt URL: https://chatgpt.com/share/672afeef-6500-8012-8621-361ff44a110c
 
 
-## HW2: Write python code to solve Kaggle Titanic
+## HW2-2: Write python code to solve Kaggle Titanic
 1. following CRISP-DM steps
 2. get data from web
 3. confusion matrix
